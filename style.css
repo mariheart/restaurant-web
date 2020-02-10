@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(220, 243, 247);
+    background-image: linear-gradient(rgb(168, 242, 255),rgb(255, 255, 255));
+}
+
+#header {
+    text-align: center;
+}
+#topMenu{
+    display: inline-block;
+    padding: 12px;
+
+}
+
+h1 {
+    color: rgb(78, 166, 238);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: rgb(78, 166, 238);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#break1 {
+    text-align: center;
+}
+
+#clearWater {
+    width: 600px;
+    height: 200px;
+}
+
+#flavorText {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+#imag {
+    text-align: center;
+}
+
+#waterLink {
+    width: 700px;
+}
+
+#orbMenu {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+#otherStuff {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+#location {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+
+#reserve {
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+#about {
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+#bigMenu {
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+#otherStuffBig {
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
+
+#locationBig {
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(27, 131, 201);
+}
